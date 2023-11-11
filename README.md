@@ -16,6 +16,8 @@ Unzip Membership
   unsubscibed -- "http://localhost:8082/membership-service/subscription/unsubscribe"
 
   channelGetTotalSubscribe -- "http://localhost:8082/membership-service/subscription/getChannelSubscriptionTotal"
+  
+  getSubsciptionDuration -- http://localhost:8082/membership-service/subscription/getSubsciptionDuration
 
 ======================================================================
 

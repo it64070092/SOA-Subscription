@@ -7,6 +7,7 @@ Unzip Membership
 -- Start Membership
 
 =======================================================================
+
 -- path for calling 
 
   subscribe -- "http://localhost:8082/membership-service/subscription/subscribe"

@@ -7,7 +7,9 @@ Unzip Membership
 
 -- path for calling 
   subscribe -- "http://localhost:8082/membership-service/subscription/subscribe"
+
   unsubscibed -- "http://localhost:8082/membership-service/subscription/unsubscribe"
+
   channelGetTotalSubscribe -- "http://localhost:8082/membership-service/subscription/getChannelSubscriptionTotal"
 
 

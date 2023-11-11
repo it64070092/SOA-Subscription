@@ -21,6 +21,9 @@ Unzip Membership
 
 every api is post method with Body/raw/JSON example
 
+
 {
+
   "channelId": "somechannelId/Object_id from MongoDB of artist table"
+
 }
